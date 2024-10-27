@@ -6,6 +6,7 @@
 
 - On this GitHub profile, you'll find a collection of my daily learning tips, projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
 - Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
+- 100% of employees are People, 100% of customers are People, 100% of investors are People, if you don't undestrand people, you don't undestand business. :people_holding_hands: :sunglasses:	
 
 - Let's start a new success story together! 💻💡 :ok_hand:
 
