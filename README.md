@@ -12,7 +12,7 @@
 
 💻 Tech Stack:
 
-- ![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
+![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
 
 
 🌐 Socials:
