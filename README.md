@@ -14,6 +14,10 @@ Feel free to reach out if you'd like to chat about a project, or just want to sa
 Python Pandas NumPy HTML5 CSS3 Bootstrap TailwindCSS JavaScript Next JS NodeJS MongoDB C++ C#
 
 🌐 Socials:
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/dr-ing-hassan-keshavarz/
 - LinkedIn
 - Github
 
