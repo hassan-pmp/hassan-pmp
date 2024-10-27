@@ -2,16 +2,17 @@
 
 ## Hello there! 👋
 - I'm Hassan, a passionate **Project Manager**, **Scrum Master**, **Agile Coach** with a mind full of ideas 💻.
-- When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, Agile Coach 🎨, and Scrum Master 📊.
+- When I'm not busy building innovative solutions, you can find me geeking out over GenAI, Writing Scientific Article , Reading Books, and YouTube.
 - Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
 
-- On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
-Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
+- On this GitHub profile, you'll find a collection of my daily learning tips, projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
+- Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
 
-- Let's code, and change the world! 💻💡
+- Let's start a new success story together! 💻💡
 
 💻 Tech Stack:
-Python Pandas NumPy HTML5 CSS3 Bootstrap TailwindCSS JavaScript Next JS NodeJS MongoDB C++ C#
+Projecct Management, ![image](https://github.com/user-attachments/assets/4447cac0-ed9e-457b-9670-3fe60f756f66)
+
 
 🌐 Socials:
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dr-ing-hassan-keshavarz/)
