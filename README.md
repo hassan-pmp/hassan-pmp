@@ -7,7 +7,7 @@
 - On this GitHub profile, you'll find a collection of my daily learning tips, projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
 - Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
 
-- Let's start a new success story together! 💻💡
+- Let's start a new success story together! 💻💡:ok_hand:
 
 💻 Tech Stack:
 
