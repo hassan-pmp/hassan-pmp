@@ -32,9 +32,9 @@
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 
 **Academic articles**:
-- 1-	H. Keshavarz. et.al. (2023), Phenomenon of Fake Agile in Software Development, 30th Annual IEEE Software Technology Conference (STC 2023), https://ieeexplore.ieee.org/abstract/document/10336310.
+- 1-	**H. Keshavarz**. et.al. (2023), **Phenomenon of Fake Agile in Software Development**, _30th Annual IEEE Software Technology Conference (STC 2023)_, https://ieeexplore.ieee.org/abstract/document/10336310.
 
-- 2-	H. Keshavarz. et.al. (2024), Prosperity of Generative AI in Agile Project Management with the Role of Prompt Engineering, Wiley Encyclopedia of Electrical and Electronics Engineering, Under Review
+- 2-	**H. Keshavarz**. et.al. (2024), **Prosperity of Generative AI in Agile Project Management with the Role of Prompt Engineering**, _Wiley Encyclopedia of Electrical and Electronics Engineering_, Under Review
 
 - More: ![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
 
