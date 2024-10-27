@@ -11,8 +11,8 @@
 
 💻 Tech Stack:
 
-print(emoji.emojize('Python is :thumbs_up:'))
-Python is 👍
+![image](https://github.com/user-attachments/assets/47a1725a-a4ee-485c-8ff9-cdfdba701bb3)
+
 
 Certificates:
 
