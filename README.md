@@ -9,7 +9,11 @@
 
 - Let's start a new success story together! 💻💡
 
-💻 Certificates:
+💻 Tech Stack:
+![confluence](https://github.com/user-attachments/assets/9eee51cf-2631-4d73-a5a9-05b37a601830)
+
+
+Certificates:
 
 ![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
 ![GCP](https://github.com/user-attachments/assets/d3528d2c-85a5-43f8-b843-80f31b4a0cbd)
