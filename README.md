@@ -1,6 +1,4 @@
-## Hi there 
-
-## Hello there! 👋
+## Hello There! 👋
 - I'm Hassan, a passionate **Project Manager**, **Scrum Master**, **Agile Coach**, **Product Owner** with a mind full of ideas 💻.
 - When I'm not busy building innovative solutions, you can find me geeking out over GenAI, Writing Scientific Article , Reading Books, and YouTube.
 - Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
