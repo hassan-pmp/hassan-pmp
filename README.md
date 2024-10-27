@@ -1,14 +1,14 @@
 ## Hi there 
 
 ## Hello there! 👋
-I'm Hassan, a passionate developer with a mind full of code 💻.
-When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, Agile Coach 🎨, and Scrum Master 📊.
-Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
+- I'm Hassan, a passionate developer with a mind full of code 💻.
+- When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, Agile Coach 🎨, and Scrum Master 📊.
+- Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
 
-On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
+- On this GitHub profile, you'll find a collection of my projects, experiments, and collaborations. Take a look around, and let's build something amazing together! 🚀
 Feel free to reach out if you'd like to chat about a project, or just want to say hi 👋.
 
-Let's code, and change the world! 💻💡
+- Let's code, and change the world! 💻💡
 
 💻 Tech Stack:
 Python Pandas NumPy HTML5 CSS3 Bootstrap TailwindCSS JavaScript Next JS NodeJS MongoDB C++ C#
