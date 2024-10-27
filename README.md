@@ -43,6 +43,8 @@
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dr-ing-hassan-keshavarz/)
 &nbsp;
 - [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/hassan-pmp)
+- &nbsp;
+- [![Gooogle Scholar](https://i.sstatic.net/tskMh.png) Gooogle Scholar](https://scholar.google.com/citations?user=QymxC34AAAAJ)
 
 
 
