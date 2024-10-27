@@ -10,7 +10,7 @@
 
 - Let's start a new success story together! 💻💡
 
-💻 Tech Stack:
+💻 Certificates:
 
 ![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
 ![GCP](https://github.com/user-attachments/assets/d3528d2c-85a5-43f8-b843-80f31b4a0cbd)
