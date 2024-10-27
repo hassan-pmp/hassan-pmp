@@ -11,6 +11,7 @@
 
 💻 **Tech Stack**:
 
+![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 
 
 **Certificates**:
