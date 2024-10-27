@@ -11,7 +11,7 @@
 
 💻 Tech Stack:
 
-![confluence](https://github.com/user-attachments/assets/9eee51cf-2631-4d73-a5a9-05b37a601830)
+![confluence](https://github.com/user-attachments/assets/f0973ca2-b3f3-4bc3-a5d8-10cf1b2f970d)
 
 
 Certificates:
