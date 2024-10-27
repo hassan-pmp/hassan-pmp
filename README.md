@@ -9,7 +9,7 @@
 
 - Let's start a new success story together! 💻💡 :ok_hand:
 
-💻 Tech Stack:
+💻 **Tech Stack**:
 
 
 
@@ -21,7 +21,7 @@
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 
 
-🌐 Socials:
+🌐 **Socials**:
 - [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dr-ing-hassan-keshavarz/)
 &nbsp;
 - [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/hassan-pmp)
