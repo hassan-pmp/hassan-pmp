@@ -45,7 +45,7 @@
 - [![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/hassan-pmp)
 &nbsp;
 - [![Gooogle Scholar](https://i.sstatic.net/tskMh.png) Gooogle Scholar](https://scholar.google.com/citations?user=QymxC34AAAAJ)
-- [![Gooogle Scholar]([https://i.sstatic.net/tskMh.png](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)) Gooogle Scholar](https://scholar.google.com/citations?user=QymxC34AAAAJ)
+- [![Gooogle Scholar]([[https://i.sstatic.net/tskMh.png](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white))) Gooogle Scholar](https://scholar.google.com/citations?user=QymxC34AAAAJ)
 
 
 
