@@ -11,7 +11,7 @@
 
 💻 Tech Stack:
 
-![sql](https://github.com/user-attachments/assets/cf685591-7130-4aa6-b7ed-4c4219484380)
+![sql](https://github.com/user-attachments/assets/1a7161a2-a57f-4d75-aff0-459b8cab2749)
 
 
 Certificates:
