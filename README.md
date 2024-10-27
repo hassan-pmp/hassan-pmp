@@ -14,6 +14,8 @@
 
 ![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
 ![GCP](https://github.com/user-attachments/assets/d3528d2c-85a5-43f8-b843-80f31b4a0cbd)
+![PSPO1](https://github.com/user-attachments/assets/eda66eca-b409-497e-936b-0a0856aef37a)
+![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 
 
 🌐 Socials:
