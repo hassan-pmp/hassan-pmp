@@ -1,7 +1,7 @@
 ## Hi there 
 
 ## Hello there! 👋
-- I'm Hassan, a passionate developer with a mind full of code 💻.
+- I'm Hassan, a passionate **Project Manager**, **Scrum Master**, **Agile Coach** with a mind full of ideas 💻.
 - When I'm not busy building innovative solutions, you can find me geeking out over AI 🤖, Agile Coach 🎨, and Scrum Master 📊.
 - Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
 
