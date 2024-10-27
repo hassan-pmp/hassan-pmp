@@ -11,8 +11,8 @@
 
 💻 Tech Stack:
 
-![confluence](https://github.com/user-attachments/assets/f0973ca2-b3f3-4bc3-a5d8-10cf1b2f970d)
-
+print(emoji.emojize('Python is :thumbs_up:'))
+Python is 👍
 
 Certificates:
 
