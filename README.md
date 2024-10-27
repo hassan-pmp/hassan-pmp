@@ -15,6 +15,7 @@ Python Pandas NumPy HTML5 CSS3 Bootstrap TailwindCSS JavaScript Next JS NodeJS M
 
 🌐 Socials:
 LinkedIn
+Github
 
 
 <!--
