@@ -11,7 +11,7 @@
 - Let's start a new success story together! 💻💡
 
 💻 Tech Stack:
-Projecct Management, ![image](https://github.com/user-attachments/assets/4447cac0-ed9e-457b-9670-3fe60f756f66)
+Projecct Management, ![image](https://github.com/user-attachments/Downloads/pmp.jpg)
 
 
 🌐 Socials:
