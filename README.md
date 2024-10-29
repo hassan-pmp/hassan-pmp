@@ -1,5 +1,5 @@
 ## Hello There! 👋
-- I'm Hassan, a passionate **Project Manager**, **Scrum Master**, **Agile Coach**, and **Product Owner** with a mind full of ideas 💻.
+- I'm Hassan, a passionate **Project Manager**, **Scrum Master**, and **Agile Coach** with a mind full of ideas 💻.
 - Enthusiastic and experienced **Project Manager**, **Agile Coach** and **Scrum Master** in coaching Software Development and operational teams in IT industry. Possessing excellent coaching and interpersonal skills, he is capable to evoke cooperation from a wide variety of sources to achieve the organizational goals. 
 - When I'm not busy building innovative solutions, you can find me geeking out over GenAI ✔️, Writing Scientific Article :memo: :scientist:, Reading Books :books:, Volleyball :volleyball: and YouTube ✅.
 - Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
