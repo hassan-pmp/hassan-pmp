@@ -34,7 +34,7 @@
 
 :memo: :scientist: **Sceintefic Papers**:
 
-1-	**H. Keshavarz**. et.al. (2023), **Phenomenon of Fake Agile in Software Development**, _30th Annual IEEE Software Technology Conference (STC 2023)_, https://ieeexplore.ieee.org/abstract/document/10336310.
+1-	**H. Keshavarz**. et.al. (2023), **Phenomenon of Fake Agile in Software Development**, IT Professional Magazine, https://www.computer.org/csdl/magazine/it/2024/05/10754961/21THe9ldNa8 .
 
 2-	**H. Keshavarz**. et.al. (2024), **Prosperity of Generative AI in Agile Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_, **Accepted**.
 
