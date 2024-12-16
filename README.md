@@ -31,8 +31,9 @@
 ![GCP](https://github.com/user-attachments/assets/d3528d2c-85a5-43f8-b843-80f31b4a0cbd)
 ![PSPO1](https://github.com/user-attachments/assets/eda66eca-b409-497e-936b-0a0856aef37a)
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
-![mckinsey-forward-program](https://github.com/user-attachments/assets/ffb624ec-d74c-4ef0-bff2-14b5d80d460d)
 ![mckinsey-forward-program](https://github.com/user-attachments/assets/dac2f6d9-f2b8-4199-81a1-d20e058bfd46)
+![mckinsey-forward-program](https://github.com/user-attachments/assets/3d0b5dac-645e-4cc2-a6b2-dfc1fcc4070c)
+
 
 :memo: :scientist: **Sceintefic Papers**:
 
