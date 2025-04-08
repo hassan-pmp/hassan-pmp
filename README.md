@@ -23,8 +23,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MicrosoftAISkillsFestGWRAttemptBadge full]![Uploading MicrosoftAISkillsFestGWRAttemptBadge[full] - Copy.png…]()
-
 
 
 **Certificates**:
@@ -34,6 +32,8 @@
 ![PSPO1](https://github.com/user-attachments/assets/eda66eca-b409-497e-936b-0a0856aef37a)
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 ![mckinsey-forward-program](https://github.com/user-attachments/assets/3d0b5dac-645e-4cc2-a6b2-dfc1fcc4070c)
+![Uploading MicrosoftAISkillsFestGWRAttemptBadge[full] - Copy.png…]()
+
 
 
 :memo: :scientist: **Sceintefic Papers**:
