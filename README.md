@@ -32,7 +32,6 @@
 ![PSPO1](https://github.com/user-attachments/assets/eda66eca-b409-497e-936b-0a0856aef37a)
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 ![mckinsey-forward-program](https://github.com/user-attachments/assets/3d0b5dac-645e-4cc2-a6b2-dfc1fcc4070c)
-![MicrosoftAISkillsFestGWRAttemptBadge](https://github.com/user-attachments/assets/f092f031-9690-4f78-962d-77fb08110307)
 ![MicrosoftAISkillsFestGWRAttemptBadge2](https://github.com/user-attachments/assets/a1a93b07-0d0c-42e9-b12b-6521ffba2fb3)
 
 
