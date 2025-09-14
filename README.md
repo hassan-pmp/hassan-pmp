@@ -23,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/f07f0dc1-8954-4407-9da6-1e6f3c247fd9" />
 
 
 **Certificates**:
