@@ -34,6 +34,7 @@
 ![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
 ![mckinsey-forward-program](https://github.com/user-attachments/assets/3d0b5dac-645e-4cc2-a6b2-dfc1fcc4070c)
 ![MicrosoftAISkillsFestGWRAttemptBadge2](https://github.com/user-attachments/assets/b18b8d00-a1e0-4bc6-ad44-bc7922e6a49e)
+<img width="600" height="600" alt="APL" src="https://github.com/user-attachments/assets/e22db3d8-3f51-4a29-8992-83f4b53dee29" />
 
 
 
