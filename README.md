@@ -30,8 +30,8 @@
 
 ![pmp](https://github.com/user-attachments/assets/a139cd6a-603d-4b5e-9fdc-ff6cc940862f)
 ![GCP](https://github.com/user-attachments/assets/d3528d2c-85a5-43f8-b843-80f31b4a0cbd)
-![PSPO1](https://github.com/user-attachments/assets/eda66eca-b409-497e-936b-0a0856aef37a)
-![PSM1](https://github.com/user-attachments/assets/d63ffd78-7e29-4dab-8822-55cce2553a53)
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/9123a6a9-86d1-4a44-9add-85950abf8d5f" />
+<img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/101265bb-cc71-447d-8599-a9dee43e42b1" />
 ![mckinsey-forward-program](https://github.com/user-attachments/assets/3d0b5dac-645e-4cc2-a6b2-dfc1fcc4070c)
 ![MicrosoftAISkillsFestGWRAttemptBadge2](https://github.com/user-attachments/assets/b18b8d00-a1e0-4bc6-ad44-bc7922e6a49e)
 <img width="80" height="80" alt="APL" src="https://github.com/user-attachments/assets/e22db3d8-3f51-4a29-8992-83f4b53dee29" />
