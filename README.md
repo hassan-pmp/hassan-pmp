@@ -42,10 +42,14 @@
 
 :memo: :scientist: **Sceintefic Papers**:
 
-1-	**H. Keshavarz**. et.al. (2024), **Phenomenon of Fake Agile in Software Development**, IT Professional Magazine, https://www.computer.org/csdl/magazine/it/2024/05/10754961/21THe9ldNa8 .
+-	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_,Under Review
 
-2-	**H. Keshavarz**. et.al. (2025), **Prosperity of Generative AI in Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_,
+-	**H. Keshavarz**. et.al. (2025), **Prosperity of Generative AI in Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_,
 https://onlinelibrary.wiley.com/doi/10.1002/047134608X.W8453?utm_medium=article&utm_source=researchgate.net
+
+-	**H. Keshavarz**. et.al. (2024), **Phenomenon of Fake Agile in Software Development**, IT Professional Magazine, https://www.computer.org/csdl/magazine/it/2024/05/10754961/21THe9ldNa8 .
+
+
 
 
 🌐 **Socials**:
