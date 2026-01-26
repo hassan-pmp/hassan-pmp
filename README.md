@@ -42,7 +42,7 @@
 
 :memo: :scientist: **Sceintefic Papers**:
 
--	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_,Under Review
+-	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_, Under Review
 
 -	**H. Keshavarz**. et.al. (2025), **Prosperity of Generative AI in Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_,
 https://onlinelibrary.wiley.com/doi/10.1002/047134608X.W8453?utm_medium=article&utm_source=researchgate.net
