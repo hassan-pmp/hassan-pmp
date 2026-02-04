@@ -1,6 +1,6 @@
 ## Hello There! 👋
 - I'm Hassan, a passionate **Senior Technical Project Manager**, **Senior Business Systems Analyst**, **Elit Scrum Master**, and **Senior Agile Coach** with a mind full of ideas 💻.
-- Enthusiastic and experienced **Senior Technical Project Manager**, **Senior Agile Coach** and **Elit Scrum Master** in coaching Software Development and operational teams in IT industry. Possessing excellent coaching and interpersonal skills, he is capable to evoke cooperation from a wide variety of sources to achieve the organizational goals. 
+- Enthusiastic and experienced **Senior Technical Project Manager**, **Senior Business Systems Analyst**, **Senior Agile Coach** and **Elit Scrum Master** in coaching Software Development and operational teams in IT industry. Possessing excellent coaching and interpersonal skills, he is capable to evoke cooperation from a wide variety of sources to achieve the organizational goals. 
 - When I'm not busy building innovative solutions, you can find me geeking out over GenAI ✔️, Writing Scientific Article :memo: :scientist:, Reading Books :books:, Volleyball :volleyball: and YouTube ✅.
 - Work hard, help harder 💪. I'm driven by a desire to create technology that makes a real difference in people's lives. The more I work, the more I want to help others - it's a virtuous cycle of awesomeness 🔄!
 
