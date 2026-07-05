@@ -42,6 +42,8 @@
 
 :memo: :scientist: **Sceintefic Papers**:
 
+- **H. Keshavarz**. et.al. (2026), **The Hidden Cost of Shadow AI: Cognitive Offloading and the Erosion of Organizational Judgment**, _IT Professional Magazine_, Under Review
+  
 -	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_, https://ieeexplore.ieee.org/abstract/document/11578387
 
 -	**H. Keshavarz**. et.al. (2025), **Prosperity of Generative AI in Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_,
