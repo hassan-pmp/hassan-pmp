@@ -42,12 +42,13 @@
 
 :memo: :scientist: **Sceintefic Papers**:
   
-- **H. Keshavarz**. et.al. (2026), **The Hidden Cost of Shadow AI: Cognitive Offloading and the Erosion of Organizational Judgment**, _IT Professional Magazine_, Accepted, Volume 28 , Issue 5  (IF= 2.6, Publish in Oct 2026)
+- **H. Keshavarz**. et.al. (2026), **The Hidden Cost of Shadow AI: Cognitive Offloading and the Erosion of Organizational Judgment**, _IT Professional Magazine_, https://www.computer.org/csdl/magazine/it/2026/05/11738861/2kBrmhTpalW, Volume 28 , Issue 5  (IF= 2.6, Publish in Oct 2026)
   
--	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_, https://ieeexplore.ieee.org/abstract/document/11578387
+-	**H. Keshavarz**. et.al. (2026), **Shadow AI and Psychological Safety: Hidden Risks in Modern IT Organizations**, _IT Professional Magazine_, https://ieeexplore.ieee.org/abstract/document/11578387, Volume 28, Issue 3,  (IF= 2.6, Publish in Jun 2026)
+
 
 -	**H. Keshavarz**. et.al. (2025), **Prosperity of Generative AI in Project Management**, _Wiley Encyclopedia of Electrical and Electronics Engineering_,
-https://onlinelibrary.wiley.com/doi/10.1002/047134608X.W8453?utm_medium=article&utm_source=researchgate.net
+https://onlinelibrary.wiley.com/doi/10.1002/047134608X.W8453?utm_medium=article&utm_source=researchgate.net, pp. 1-9., Nov 2025
 
 -	**H. Keshavarz**. et.al. (2024), **Phenomenon of Fake Agile in Software Development**, IT Professional Magazine, https://www.computer.org/csdl/magazine/it/2024/05/10754961/21THe9ldNa8 .
 
